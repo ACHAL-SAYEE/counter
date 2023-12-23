@@ -1,0 +1,27 @@
+.counter {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.counter-controls {
+  margin-left: 15px;
+}
+
+.button {
+    margin-right: 10px;
+    cursor: pointer;
+    width:30px;
+    height: 30px;
+    border: none;
+    color: white;
+    border-radius: 2px;
+}
+
+.is-danger {
+    background-color: #F14668;
+}
+
+.is-success{
+    background-color: #48C78E;
+}
